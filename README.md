@@ -1,10 +1,9 @@
 poo-csharp
 ==========
 
-IFCE-Campus Fortaleza
-Gerencia de Telemática
-Professor:Ricardo Duarte Taveira
+IFCE-Campus Fortaleza/Gerencia de Telemática/Professor:Ricardo Duarte Taveira
 
+----------------------------
 Disciplina de POO com CSharp
 ----------------------------
 1) Bibliografia
