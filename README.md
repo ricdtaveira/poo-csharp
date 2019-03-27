@@ -1,10 +1,8 @@
 poo-csharp
 ----------
 
-IFCE-Campus Fortaleza/Gerencia de Telemática/Professor:Ricardo Duarte Taveira
+In this repository are contained C# code that exemplify concepts of Object Oriented Programming.
 
-----------------------------
-Disciplina de POO com CSharp
-----------------------------
-1) Bibliografia 2) Apostilas 3) Código Fonte 4) Projetos Exemplo
+# References
+
 ----------------------------
